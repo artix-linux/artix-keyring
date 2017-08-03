@@ -1,2 +1,2 @@
-# Cromnix-keyring
-Keyring for signing Cromnix packages
+# Artix-keyring
+Keyring for signing Artix packages
